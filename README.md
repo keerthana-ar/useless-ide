@@ -88,8 +88,8 @@ console lmao
 
 # Project Demo
 ## Video
-([https://youtu.be/534eK7y1tJ4])
-Full working of 404IDE
+https://youtu.be/534eK7y1tJ4
+**Full working of 404IDE**
 
 
 ---
