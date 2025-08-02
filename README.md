@@ -52,9 +52,6 @@ npm run preview
 npm run lint
 ```
 
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
 ![Screenshot1](Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
