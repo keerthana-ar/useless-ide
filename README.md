@@ -53,14 +53,16 @@ npm run lint
 ```
 
 # Screenshots (Add at least 3)
-<img width="1919" height="954" alt="Screenshot 2025-08-02 185234" src="https://github.com/user-attachments/assets/26c25d11-5646-4181-8e7c-f0f362cb2232" />
-*this is what the main page looks like*
+!<img width="1919" height="954" alt="Screenshot 2025-08-02 185234" src="https://github.com/user-attachments/assets/26c25d11-5646-4181-8e7c-f0f362cb2232" />
+this is what the main page looks like
 
-<img width="1919" height="955" alt="Screenshot 2025-08-02 185302" src="https://github.com/user-attachments/assets/9851b83e-b27f-4c74-9a26-9693bf84e218" />
-*"terminal ennokke"*
 
-<img width="1919" height="949" alt="Screenshot 2025-08-02 192448" src="https://github.com/user-attachments/assets/04c560d5-503f-47a2-933d-32ebe33ead4a" />
-*console lmao*
+!<img width="1919" height="955" alt="Screenshot 2025-08-02 185302" src="https://github.com/user-attachments/assets/9851b83e-b27f-4c74-9a26-9693bf84e218" />
+"terminal" ennokke
+
+
+!<img width="1919" height="949" alt="Screenshot 2025-08-02 192448" src="https://github.com/user-attachments/assets/04c560d5-503f-47a2-933d-32ebe33ead4a" />
+console lmao
 
 
 ## Special Features
