@@ -8,34 +8,49 @@
 ### Team Name: [Keerthana A R]
 
 ### Project Description
-[2-3 lines about what your project does]
+A satirical IDE that parodies the frustrating developer experience by replacing keywords with absurd alternatives, generating fake errors, and trolling users with passive-aggressive tooltips and random crashes - because sometimes coding feels like a cosmic joke anyway!
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Developers are having too much fun coding and feeling too confident about their abilities. The world clearly needs an IDE that actively undermines developer self-esteem, replaces sensible keywords with ridiculous alternatives like turning "console.log" into "speakToTheVoid", and makes every coding session an exercise in existential dread.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+404 IDE - Where code goes to die! An IDE that trolls you harder than Stack Overflow comments. It features keyword replacement (goodbye "function", hello "perhapsFunction"), fake error generation, passive-aggressive tooltips, random UI corruption, fake crash screens, and a metrics panel tracking your declining confidence and hope levels in real-time!
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- JavaScript(JSX)
+- React 19.1.0, Vite 7.0.4
+- Lucide React 0.536.0 (for icons), Tailwind CSS 4.1.11 (for styling), React DOM 19.1.0
+- ESLint (for code linting), PostCSS with Autoprefixer, Fira Mono font (Google Fonts)
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+```bash
+# Clone the repository
+git clone <your-repo-url>
+cd 404-ide
+```
 
+```bash
 # Run
-[commands]
+cd client
+
+npm install
+
+# Start the development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+
+# Run linting
+npm run lint
+```
 
 ### Project Documentation
 For Software:
@@ -50,41 +65,31 @@ For Software:
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+## Special Features
 
-For Hardware:
+- 🎭 **Keyword Trolling:** Automatically replaces coding keywords with ridiculous alternatives
+- 🐛 **Fake Error Generator:** Creates believable but absurd error messages
+- 📊 **Developer Metrics:** Tracks confidence, self-esteem, and chaos levels in real-time
+- 🎨 **Progressive UI Corruption:** Interface slowly becomes more chaotic over time
+- 🔊 **Sound Effects:** Audio feedback for common "mistakes"
+- 💀 **Random Crash Screens:** Surprise blue screens of death
+- 📁 **Fake File System:** Pre-loaded with hilariously named files and content
+- 💬 **Passive-Aggressive Tooltips:** Sarcastic hints for common programming patterns
+- ⏰ **Time Wasted Tracker:** Because every good troll needs metrics
 
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+## Fun Stats
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+- **Lines of trolling code:** 500+
+- **Fake error messages:** 13+
+- **Passive-aggressive tooltips:** 9+
+- **Ridiculous file names:** 6
+- **Keywords that get replaced:** 15+
+- **Ways to crush developer spirits:** ∞
 
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
+# Project Demo
+## Video
 [Add your demo video link here]
 *Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
