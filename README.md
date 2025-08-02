@@ -53,15 +53,15 @@ npm run lint
 ```
 
 # Screenshots (Add at least 3)
-!<img width="1919" height="954" alt="Screenshot 2025-08-02 185234" src="https://github.com/user-attachments/assets/26c25d11-5646-4181-8e7c-f0f362cb2232" />
-(Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1919" height="954" alt="Screenshot 2025-08-02 185234" src="https://github.com/user-attachments/assets/26c25d11-5646-4181-8e7c-f0f362cb2232" />
+*this is what the main page looks like*
 
-![Screenshot2]<img width="1919" height="955" alt="Screenshot 2025-08-02 185302" src="https://github.com/user-attachments/assets/9851b83e-b27f-4c74-9a26-9693bf84e218" />
-*Add caption explaining what this shows*
+<img width="1919" height="955" alt="Screenshot 2025-08-02 185302" src="https://github.com/user-attachments/assets/9851b83e-b27f-4c74-9a26-9693bf84e218" />
+*"terminal ennokke"*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+<img width="1919" height="949" alt="Screenshot 2025-08-02 192448" src="https://github.com/user-attachments/assets/04c560d5-503f-47a2-933d-32ebe33ead4a" />
+*console lmao*
+
 
 ## Special Features
 
@@ -86,13 +86,14 @@ npm run lint
 
 # Project Demo
 ## Video
-[Add your demo video link here]
 *Explain what the video demonstrates*
+
+
+Uploading 404ide.mp4…
+
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
-
-
