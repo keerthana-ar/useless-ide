@@ -53,10 +53,11 @@ npm run lint
 ```
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+!<img width="1919" height="954" alt="Screenshot 2025-08-02 185234" src="https://github.com/user-attachments/assets/26c25d11-5646-4181-8e7c-f0f362cb2232" />
+(Add screenshot 1 here with proper name)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![Screenshot2]<img width="1919" height="955" alt="Screenshot 2025-08-02 185302" src="https://github.com/user-attachments/assets/9851b83e-b27f-4c74-9a26-9693bf84e218" />
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
